@@ -1,0 +1,10 @@
+#tutorial: https://www.atlassian.com/git/tutorials/gitignore
+
+*.log
+*.DS_Store
+*.iml
+*.idea
+
+Multi-objective-evaluation-algorithm/Test\ Images\ Project\ 2/
+
+

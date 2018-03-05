@@ -1,0 +1,15 @@
+missing module named nt - imported by os, shutil, ntpath, /Users/jonasdammen/Development/code/src/github.com/Bio-Inspired-Artificial-Intelligence/Multi-objective-evaluation-algorithm/Segmentation_Evaluation/run.py
+missing module named org - imported by pickle, /Users/jonasdammen/Development/code/src/github.com/Bio-Inspired-Artificial-Intelligence/Multi-objective-evaluation-algorithm/Segmentation_Evaluation/run.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, /Users/jonasdammen/Development/code/src/github.com/Bio-Inspired-Artificial-Intelligence/Multi-objective-evaluation-algorithm/Segmentation_Evaluation/run.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, /Users/jonasdammen/Development/code/src/github.com/Bio-Inspired-Artificial-Intelligence/Multi-objective-evaluation-algorithm/Segmentation_Evaluation/run.py
+missing module named _winreg - imported by platform, /Users/jonasdammen/Development/code/src/github.com/Bio-Inspired-Artificial-Intelligence/Multi-objective-evaluation-algorithm/Segmentation_Evaluation/run.py
+missing module named java - imported by platform, /Users/jonasdammen/Development/code/src/github.com/Bio-Inspired-Artificial-Intelligence/Multi-objective-evaluation-algorithm/Segmentation_Evaluation/run.py
+missing module named 'java.lang' - imported by platform, /Users/jonasdammen/Development/code/src/github.com/Bio-Inspired-Artificial-Intelligence/Multi-objective-evaluation-algorithm/Segmentation_Evaluation/run.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, /Users/jonasdammen/Development/code/src/github.com/Bio-Inspired-Artificial-Intelligence/Multi-objective-evaluation-algorithm/Segmentation_Evaluation/run.py
+missing module named winreg - imported by platform, mimetypes, /Users/jonasdammen/Development/code/src/github.com/Bio-Inspired-Artificial-Intelligence/Multi-objective-evaluation-algorithm/Segmentation_Evaluation/run.py, urllib.request
+missing module named 'org.python' - imported by copy, /Users/jonasdammen/Development/code/src/github.com/Bio-Inspired-Artificial-Intelligence/Multi-objective-evaluation-algorithm/Segmentation_Evaluation/run.py, xml.sax
+missing module named msvcrt - imported by subprocess, /Users/jonasdammen/Development/code/src/github.com/Bio-Inspired-Artificial-Intelligence/Multi-objective-evaluation-algorithm/Segmentation_Evaluation/run.py, getpass
+missing module named _winapi - imported by subprocess, /Users/jonasdammen/Development/code/src/github.com/Bio-Inspired-Artificial-Intelligence/Multi-objective-evaluation-algorithm/Segmentation_Evaluation/run.py
+missing module named _dummy_threading - imported by dummy_threading, /Users/jonasdammen/Development/code/src/github.com/Bio-Inspired-Artificial-Intelligence/Multi-objective-evaluation-algorithm/Segmentation_Evaluation/run.py
+missing module named numpy - imported by fileReader
+missing module named PIL - imported by fileReader
